@@ -1,0 +1,94 @@
+{
+  "invoices": [
+    {
+      "id": 1,
+      "date": "30 Mar 2025",
+      "invoiceNo": "INV/2025/00006",
+      "customerName": "Ramanujan",
+      "email": "Ram@gmail.com",
+      "dueDate": "30 Mar 2025",
+      "amount": " 16000/- ",
+      "status": "paid"
+    },
+    {
+      "id": 2,
+      "date": "29 Mar 2025",
+      "invoiceNo": "INV/2025/00005",
+      "customerName": "Stephen Hawking",
+      "email": "hawking@gmail.com",
+      "dueDate": "29 Mar 2025",
+      "amount": "40000/-",
+      "status": "overdue"
+    },
+    {
+      "id": 3,
+      "date": "28 Mar 2025",
+      "invoiceNo": "INV/2025/00004",
+      "customerName": "steave jobs",
+      "email": "jobs@gmail.com",
+      "dueDate": "28 Mar 2025",
+      "amount": "40000/-",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "date": "26 Mar 2025",
+      "invoiceNo": "INV/2025/00003",
+      "customerName": "Sonam Wangchuk",
+      "email": "sonam@gmail.com",
+      "dueDate": "26 Mar 2025",
+      "amount": " 20000/-",
+      "status": "paid"
+    },
+    {
+      "id": 5,
+      "date": "25 Mar 2025",
+      "invoiceNo": "INV/2025/00002",
+      "customerName": "Amir Khan",
+      "email": "khan@gmail.com",
+      "dueDate": "25 Mar 2025",
+      "amount": "40000/-",
+      "status": "cancelled"
+    },
+    {
+      "id": 6,
+      "date": "22 Mar 2025",
+      "invoiceNo": "INV/2025/00001",
+      "customerName": "christopher Nolen",
+      "email": "Nolen@gmail.com",
+      "dueDate": "22 Mar 2025",
+      "amount": "40000/-",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "date": "26 Mar 2025",
+      "invoiceNo": "INV/2025/00003",
+      "customerName": "Sonam Wangchuk",
+      "email": "sonam@gmail.com",
+      "dueDate": "26 Mar 2025",
+      "amount": " 20000/-",
+      "status": "overdue"
+    },
+    {
+      "id": 8,
+      "date": "25 Mar 2025",
+      "invoiceNo": "INV/2025/00002",
+      "customerName": "Amir Khan",
+      "email": "khan@gmail.com",
+      "dueDate": "25 Mar 2025",
+      "amount": "Rs - 40000/-",
+      "status": "cancelled"
+    },
+    {
+      "id": 9,
+      "date": "22 Mar 2025",
+      "invoiceNo": "INV/2025/00001",
+      "customerName": "christopher Nolen",
+      "email": "Nolen@gmail.com",
+      "dueDate": "22 Mar 2025",
+      "amount": "40000/-",
+      "status": "pending"
+    }
+  ]
+} 
