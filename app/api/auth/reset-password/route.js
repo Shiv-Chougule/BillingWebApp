@@ -1,7 +1,8 @@
 import { NextResponse } from 'next/server';
 import bcrypt from 'bcryptjs';
 import mongoose from 'mongoose';
-import User from '@/models/User';
+import User from '../../../../models/User';
+
 
 // Access the same OTP store
 const otpStore = new Map();
