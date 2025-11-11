@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { useAllAdminData } from '../../../hooks/useAdminData'; 
+import { useAllAdminData } from '../../hooks/useAdminData'; 
 import { 
   House, 
   ChartNoAxesCombined, 

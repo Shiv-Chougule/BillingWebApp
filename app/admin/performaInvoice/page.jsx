@@ -1,7 +1,6 @@
 'use client';
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import Sidebar from '../Sidebar/page';
 import FilterDropdown from '../../../components/FilterForPerforma/FilterForPerforma';
 import DateDropdown from '../../../components/dateDropdown/DateDropdown';
 import SortDropdown from '../../../components/sortDropdown/SortDropdown';

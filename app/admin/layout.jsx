@@ -1,7 +1,7 @@
 'use client';
 import React, { useState, useEffect } from "react";
 import { usePathname } from 'next/navigation';
-import Sidebar from "./Sidebar/page";
+import Sidebar from "../../components/sidebar/Sidebar";
 import Header from "./header/page";
 import { findActivePage } from '../utils/route-matcher';
 import { AdminDataProvider } from '../../contexts/AdminDataContext';
