@@ -12,7 +12,7 @@ export async function POST(req) {
       const existingData = await import(`@/public/invoices.json`);
       invoices = existingData.default || [];
     } catch (error) {
-      console.log("No existing file, creating a new one.");
+      console.log("No existing file, creating a new one.", error);
     }
 
     // Append new invoice
